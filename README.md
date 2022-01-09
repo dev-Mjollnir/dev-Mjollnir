@@ -14,11 +14,9 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://www.linkedin.com/in/serifhan-isikli1/)**
-
 - 📫 How to contact me **mertsavas9@gmail.com**/ or Linkedin
 
-- ⚡ Fun fact **Bodybuilding / Archer**
+- ⚡ Fun fact **Bodybuilding / Archery**
 
 ## 🚀 Languages and Tools:
 
