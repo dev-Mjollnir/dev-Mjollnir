@@ -30,7 +30,7 @@
     <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
     <a style="padding-right:8px;" href="https://web3js.readthedocs.io/en/v1.5.2/" target="_blank"> <img width="40" height="40" src="https://ludu-assets.s3.amazonaws.com/lesson-icons/26/i0fLErLtaPoc8J67WzIC"/> </a>
     <a style="padding-right:8px;" href="https://docs.soliditylang.org/en/v0.8.11/" target="_blank"> <img width="40" height="40" src="https://docs.soliditylang.org/en/v0.8.11/_static/logo.svg"/> </a>
-   <a href="https://www.microsoft.com/en-us/sql-server/sql-server-2019" target="_blank"> <img src="https://logowik.com/content/uploads/images/microsoft-sql-server4529.jpg" alt="sql" width="40" height="40"/> </a>  
+   <a href="https://www.microsoft.com/en-us/sql-server/sql-server-2019" target="_blank"> <img src="https://www.freeiconspng.com/uploads/sql-server-icon-png-8.png" alt="sql" width="40" height="40"/> </a>  
     <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
     <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a>   
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
