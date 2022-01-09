@@ -42,6 +42,6 @@
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/mert-savas/"><img width="50" height="50" src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://medium.com/@mertsavas"><img width="50" height="50" src="https://play-lh.googleusercontent.com/hB9t3Z-mi284_49HA3nAuhO-W5Cyhje7r2P9McdgORoVCd-0SV54c12NMQWLHnqALw=s180-rw"/></a>
+<a href = "https://medium.com/@mertsavas"><img width="50" height="50" src="https://img.icons8.com/ios-glyphs/344/medium-logo.png"/></a>
 
 </p>
