@@ -8,8 +8,8 @@
 
 - 🔭 I’m currently working on new version of **[DOD](https://www.dod.com.tr/)**
 
-- 🌱 I’m currently coding in FrontEnd **Vue, Nuxt**
-- 🌱 I’m currently coding in BackEnd **.NET CORE**
+- 🌱 I’m currently coding with **Vue, Nuxt** in Frontend
+- 🌱 I’m currently coding **.NET CORE** in Backend
 - 🌱 I’m currently learning **Solidity/Web3**
 
 - 📫 How to contact me **mertsavas9@gmail.com**/ or Linkedin
