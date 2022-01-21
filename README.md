@@ -12,8 +12,6 @@
 - 🌱 I’m currently coding in BackEnd **.NET CORE**
 - 🌱 I’m currently learning **Solidity/Web3**
 
-- 👯 I’m looking to collaborate on **OpenSource Projects**
-
 - 📫 How to contact me **mertsavas9@gmail.com**/ or Linkedin
 
 - ⚡ Fun fact **Bodybuilding / Archery**
