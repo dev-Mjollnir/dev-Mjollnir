@@ -38,7 +38,7 @@
 </p>
 
 
-## Connect with me:
+## Find me on
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/mert-savas/"><img width="50" height="50" src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
