@@ -3,6 +3,8 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Mert Savaş</h1>
 <h3 align="center">Full Stack Developer</h3>
 
+## Visitor Count
+![Visitor Count](https://profile-counter.glitch.me/dev-Mjollnir/count.svg)
 
 ## 🙋‍♂️ About Me
 
